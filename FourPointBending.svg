@@ -255,5 +255,16 @@
          y="17.638878"
          style="stroke-width:0.264583"
          id="tspan1576" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:3.52777px;line-height:1.25;font-family:'Latin Modern Roman';-inkscape-font-specification:'Latin Modern Roman, Italic';stroke-width:0.264583"
+       x="82.587799"
+       y="18.331846"
+       id="text1604"><tspan
+         sodipodi:role="line"
+         id="tspan1602"
+         x="82.587799"
+         y="18.331846"
+         style="font-style:normal;font-weight:bold;stroke-width:0.264583">DUT</tspan></text>
   </g>
 </svg>
