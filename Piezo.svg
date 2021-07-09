@@ -113,7 +113,7 @@
        d="m 95.25,92.604167 h 52.91668"
        id="path835-3" />
     <rect
-       style="fill:#999999;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       style="fill:#0000ff;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
        id="rect1316"
        width="15.875"
        height="10.583333"
@@ -134,7 +134,7 @@
        d="M 126.9912,108.58831 A 35.71875,35.71875 0 0 1 86.833685,127.41658 35.71875,35.71875 0 0 1 59.306901,92.640061 35.71875,35.71875 0 0 1 86.852874,57.878739 35.71875,35.71875 0 0 1 127,76.729168 Z"
        sodipodi:open="true" />
     <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
        id="rect1314"
        width="5.2916665"
        height="15.875"
@@ -142,7 +142,7 @@
        y="84.666664"
        ry="4.582742e-07" />
     <rect
-       style="fill:#999999;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       style="fill:#0000ff;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
        id="rect1316-7"
        width="15.875"
        height="10.583333"
@@ -151,7 +151,7 @@
        ry="4.582742e-07"
        transform="rotate(90)" />
     <rect
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.264999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers stroke fill"
        id="rect1314-7"
        width="5.2916665"
        height="15.875"
